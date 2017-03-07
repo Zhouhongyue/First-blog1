@@ -8,7 +8,7 @@
 
 ## 二、实验任务
 > * 注册Github账号（HQIZCC）
-> * 创建Gihub Pages repository（本人和别人的）
+> * 创建Github Pages repository（本人和别人的）
 > * 发布第一篇博客（页面）
 > * 学习Markdown
 > *	利用Hexo生成博客并部署到Github
